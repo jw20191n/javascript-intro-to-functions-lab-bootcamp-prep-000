@@ -16,7 +16,7 @@ function logWhisper(string){
   console.log(`${string}`)
 }
 
-sayHiToGrandma(string){
+function sayHiToGrandma(string){
   var lowerCase = string;
   var nohear = "I can't hear you."
   var yeshear = "Yes, Indeed."
